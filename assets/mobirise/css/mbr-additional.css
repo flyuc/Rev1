@@ -875,7 +875,7 @@ section.lazy-placeholder:after {
 }
 .cid-s21M7wJ6Y1 {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #fafafa;
 }
 .cid-s21M7wJ6Y1 .mbr-section-subtitle {
@@ -912,6 +912,49 @@ section.lazy-placeholder:after {
 }
 .cid-s21M7wJ6Y1 .team-item .item-caption {
   background: #efefef;
+}
+.cid-s2A60R5iUb {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #fafafa;
+}
+.cid-s2A60R5iUb .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-s2A60R5iUb .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s2A60R5iUb .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-s2A60R5iUb .team-item .item-image img {
+  width: 100%;
+}
+.cid-s2A60R5iUb .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-s2A60R5iUb .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-s2A60R5iUb .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-s2A60R5iUb .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-s2A60R5iUb .team-item .item-caption {
+  background: #efefef;
+}
+.cid-s2A60R5iUb H2 {
+  color: #e00122;
 }
 .cid-s21P72k0Wj {
   padding-top: 60px;
